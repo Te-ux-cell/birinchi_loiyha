@@ -4,10 +4,12 @@
   **telegram bot** \
 
   ##xususyatlari 
+  
  - foydalanuvchi kod yuborsa ushbu kod ga doir narsani chiqarib beradi
  - foyadalanuvchi kino yoki musiqa nomini kiritsa shu nomga doir narsa larni chiqarib beradi
 
-   ##ishga tushurish tartibi 
+   ##ishga tushurish tartibi
+   
 1. kino chiqarib beradi
 2. musiqa chiqarib beradi
 
