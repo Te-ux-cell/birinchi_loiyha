@@ -3,15 +3,15 @@
 
   **telegram bot** \
 
-  ##xususyatlari 
+  XUSUSYATLAI 
   
  - foydalanuvchi kod yuborsa ushbu kod ga doir narsani chiqarib beradi
  - foyadalanuvchi kino yoki musiqa nomini kiritsa shu nomga doir narsa larni chiqarib beradi
 
-   ##ishga tushurish tartibi
+  ISHGA TUSHURISH TARTIBI 
    
 1. kino chiqarib beradi
 2. musiqa chiqarib beradi
 
 
-##Urazbayev Temur
+**Urazbayev Temur**
